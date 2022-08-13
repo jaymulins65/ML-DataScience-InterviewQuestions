@@ -10,6 +10,7 @@
 ## Assorted ML [Exhaustive List]
 * **ISLR Problems:** [[Sols-1]](http://yahwes.github.io/ISLR/) [[Sols-2]](https://blog.princehonest.com/stat-learning/)
 * [[CS229 Assignments]](http://cs229.stanford.edu/syllabus-summer2020.html)
+* [[Aman AI Reading Complete Deep Learning and NLP]](https://aman.ai/)
 * [[ML, Maths and Stats]](https://rstudio-pubs-static.s3.amazonaws.com/172473_91262a8a4188445a8b5e81d5d31c7731.html)
 * [[21 questions]](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html/3)
 * [[31 questions]](https://github.com/iamtodor/data-science-interview-questions-and-answers)
